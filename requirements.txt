@@ -1,0 +1,6 @@
+# Install the CPU or CUDA build of PyTorch appropriate for your platform first:
+# https://pytorch.org/get-started/locally/
+torch==2.5.1
+torchvision==0.20.1
+numpy==2.1.3
+
